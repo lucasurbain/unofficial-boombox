@@ -1,6 +1,6 @@
 # Boombox Tesla Unofficial
 
-![Boombox Tesla Unofficial Logo](tesla.jpeg)
+![Boombox Tesla Unofficial Logo](tesla.jpg)
 
 Welcome to **Boombox Tesla Unofficial**, the ultimate audio customization app for Tesla vehicles built before 2019. Transform your Tesla's honks, alarms, and sounds into something truly unique and exciting. Embrace the power of customization and make your Tesla experience stand out on the road.
 
